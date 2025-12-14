@@ -33,7 +33,7 @@ The **Book Recommender System** is a machine learning-powered web app that helps
 
 1. **Clone the repository**
     ```bash
-    git clone <your_repo_url>
+    git clone https://github.com/bharti78/Book-Recommender-System
     cd book-recommender-system
     ```
 
