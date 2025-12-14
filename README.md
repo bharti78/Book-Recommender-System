@@ -77,7 +77,6 @@ This project demonstrates **ML integration with web development**, providing a *
 ---
 
 ## 📄 License
-
 This project is licensed under the **MIT License**.
 
 
