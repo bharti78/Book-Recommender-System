@@ -32,39 +32,41 @@ The **Book Recommender System** is a machine learning-powered web app that helps
 ## 🚀 Installation & Setup
 
 1. **Clone the repository**
-   ```bash
-   git clone <your_repo_url>
-   cd book-recommender-system
-````
+    ```bash
+    git clone <your_repo_url>
+    cd book-recommender-system
+    ```
 
 2. **Install dependencies**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 3. **Run the app locally**
+    ```bash
+    python app.py
+    ```
 
-   ```bash
-   python app.py
-   ```
-
-4. Open your browser at `http://127.0.0.1:5000`
+4. Open your browser and go to:  
+   `http://127.0.0.1:5000`
 
 ---
 
 ## 🌐 Deployment
 
-* **Render:** Recommended free hosting. Use `gunicorn app:app` as the start command.
+- **Render:** Recommended for free hosting. Use the following start command:  
+    ```bash
+    gunicorn app:app
+    ```
 
 ---
 
 ## 🔧 Future Enhancements
 
-* Add **user login** and personalized history
-* Advanced recommendations using **NLP & semantic search**
-* **Dark/Light mode toggle**
-* Pagination for large datasets
+- Add **user login** and personalized history  
+- Advanced recommendations using **NLP & semantic search**  
+- **Dark/Light mode toggle**  
+- Pagination for large datasets  
 
 ---
 
@@ -76,6 +78,7 @@ This project demonstrates **ML integration with web development**, providing a *
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
+
 
 ```
